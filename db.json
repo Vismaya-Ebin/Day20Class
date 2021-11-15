@@ -1,0 +1,19 @@
+{
+    "posts":[
+        {
+            "id":1,
+            "title":"First Book",
+            "author":"Lucifer"
+    },
+    {
+        "id":2,
+        "title":"Second Book",
+        "author":"Lucifer2"
+}
+],
+    "comments":[{
+        "id":1,"comments":"Some Comments"
+    }],
+
+    "profile":{"name":"Vismaya"}
+}
